@@ -15,7 +15,7 @@ var gl         = getContext(canvas, render)
 var comparison = compare(gl
   , createLoop('actual')
   , createLoop('expected')
-)
+) admotyR1FQ
 
 comparison.mode = 'slide'
 comparison.amount = 0.5
