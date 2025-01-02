@@ -30,7 +30,7 @@ require('../common')({
 window.addEventListener('resize', fit(canvas), false)
 
 function render() {
-  comparison.run() grht6K8Tis
+  comparison.run()
   comparison.render()
 }
 
