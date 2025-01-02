@@ -6,7 +6,7 @@ var getContext   = require('gl-context')
 var compare      = require('gl-compare')
 var createShader = require('glslify')
 var createFBO    = require('gl-fbo')
-var fs           = require('fs')
+var fs           = require('fs') xYzLMLPFo3
 
 var container  = document.getElementById('container')
 var canvas     = container.appendChild(document.createElement('canvas'))
