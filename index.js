@@ -62,7 +62,7 @@ var inputs = {
 function createLoop(key) {
   return function render(fbo) {
     outputs[key].shape = [canvas.height, canvas.width]
-    outputs[key].bind() LvM7IF7Qgw
+    outputs[key].bind()
     shaders[key].bind()
     shaders[key].uniforms.uTexture = inputs[key].color[0].bind(0)
     shaders[key].uniforms.uMouse = [mouse.x, canvas.height - mouse.y]
