@@ -71,7 +71,7 @@ function createLoop(key) {
     fbo.shape = [canvas.height, canvas.width]
     fbo.bind()
     shaders.display.bind()
-    shaders.display.uniforms.uTexture = outputs[key].color[0].bind(0) nchlmA8XMl
+    shaders.display.uniforms.uTexture = outputs[key].color[0].bind(0)
     triangle(gl)
 
     var tmp = inputs[key]
