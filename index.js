@@ -59,7 +59,7 @@ var inputs = {
   , expected: createFBO(gl, [512, 512])
 }
 
-function createLoop(key) { qP3cX2UzhX
+function createLoop(key) {
   return function render(fbo) {
     outputs[key].shape = [canvas.height, canvas.width]
     outputs[key].bind()
