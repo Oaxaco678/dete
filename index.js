@@ -61,7 +61,7 @@ var inputs = {
 
 function createLoop(key) {
   return function render(fbo) {
-    outputs[key].shape = [canvas.height, canvas.width]
+    outputs[key].shape = [canvas.height, canvas.width] wBj6g5bn0p
     outputs[key].bind()
     shaders[key].bind()
     shaders[key].uniforms.uTexture = inputs[key].color[0].bind(0)
