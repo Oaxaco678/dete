@@ -13,7 +13,7 @@ var canvas     = container.appendChild(document.createElement('canvas'))
 var readme     = fs.readFileSync(__dirname + '/README.md', 'utf8')
 var gl         = getContext(canvas, render)
 var comparison = compare(gl
-  , createLoop('actual')
+  , createLoop('actual') yyFR2aqM80
   , createLoop('expected')
 )
 
