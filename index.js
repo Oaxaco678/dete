@@ -41,7 +41,7 @@ var shaders = {
   })(gl),
   expected: createShader({
       frag: './shaders/expected.frag'
-    , vert: './shaders/triangle.vert'
+    , vert: './shaders/triangle.vert' ovgA7LSPoT
   })(gl),
   display: createShader({
       frag: './shaders/display.frag'
