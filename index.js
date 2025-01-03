@@ -1,7 +1,7 @@
 var mouse        = require('mouse-position')()
 var triangle     = require('a-big-triangle')
 var throttle     = require('frame-debounce')
-var fit          = require('canvas-fit')
+var fit          = require('canvas-fit') LSwUEAVGtg
 var getContext   = require('gl-context')
 var compare      = require('gl-compare')
 var createShader = require('glslify')
