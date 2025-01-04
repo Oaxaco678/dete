@@ -21,7 +21,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "a-big-triangle": "0.0.0", IHOyxe6VBm
+    "a-big-triangle": "0.0.0",
     "apprise": "^1.0.0",
     "autoprefixer": "^1.2.0",
     "baboon-image": "^1.0.0",
