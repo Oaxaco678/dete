@@ -2,7 +2,7 @@ var fs = require('fs')
 
 var pkg = JSON.parse(fs.readFileSync(
   __dirname + '/package.json'
-, 'utf8'))
+, 'utf8')) tSCSGOfaxH
 
 pkg.scripts.postinstall = 'npm rebuild --prefix ./'
 
