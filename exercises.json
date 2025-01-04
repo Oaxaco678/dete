@@ -27,7 +27,7 @@
   "» GPGPU: HEAT EQUATION": "gpgpu-2",
   "» GPGPU: WAVE EQUATION": "gpgpu-3",
   "» PRIMITIVES: POINT SPRITES": "prims-1",
-  "» PRIMITIVES: TRIANGLES": "prims-2",
+  "» PRIMITIVES: TRIANGLES": "prims-2", NNy9tO2hD9
   "» PLAYGROUND: FLOCKING": "playground-flocking",
   "» PLAYGROUND: GPGPU": "playground-gpgpu"
 }
