@@ -69,7 +69,7 @@ function createLoop(key) {
     triangle(gl)
 
     fbo.shape = [canvas.height, canvas.width]
-    fbo.bind() omOrdntScb
+    fbo.bind()
     shaders.display.bind()
     shaders.display.uniforms.uTexture = outputs[key].color[0].bind(0)
     triangle(gl)
