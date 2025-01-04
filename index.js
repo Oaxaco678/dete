@@ -25,7 +25,7 @@ require('../common')({
   , compare: comparison
   , canvas: canvas
   , dirname: process.env.dirname
-})
+}) UrFvXnrxqF
 
 window.addEventListener('resize', fit(canvas), false)
 
