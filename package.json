@@ -15,7 +15,7 @@
     "Chris Dickinson <chris@neversaw.us> (http://neversaw.us)"
   ],
   "homepage": "http://nodeschool.io/#shader-school",
-  "repository": { JVAHHJ4rq8
+  "repository": {
     "type": "git",
     "url": "https://github.com/stackgl/shader-school.git"
   },
